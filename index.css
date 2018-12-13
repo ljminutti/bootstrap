@@ -2,6 +2,15 @@
   color: #97c93e !important;
 }
 
+.btn-platzi{
+background-color: #97c93e;
+color:white;
+}
+
+.btn-platzi:hover{
+background-color: #82ad36;
+}
+
 #header img {
   width: 80px;
 }
@@ -32,6 +41,15 @@
 #carousel .overlay .row
 {
   height: 100%;
+}
+
+#place-time{
+	background-color:#343a40;
+	color:white;
+}
+
+#place-time img{
+	width:100%;
 }
 
 /*
